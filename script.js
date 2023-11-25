@@ -1,7 +1,7 @@
 const images = [
-    { 'id': '1', 'url':'./img/tdah.png'},
-    { 'id': '2', 'url':'./img/tdah2.png'},
-    { 'id': '3', 'url':'./img/tdah3.png'},
+    { 'id': '1', 'url':'./img/tdah.PNG'},
+    { 'id': '2', 'url':'./img/tdah2.PNG'},
+    { 'id': '3', 'url':'./img/tdah3.PNG'},
     
  ]
  
